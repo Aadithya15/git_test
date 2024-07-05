@@ -1,0 +1,2 @@
+"This a text file "
+"trying out odin project!"
